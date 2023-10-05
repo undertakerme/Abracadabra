@@ -15,3 +15,20 @@ Input
 
 3 2 5 
 abrakadabra
+
+Output
+
+ab
+
+rakad
+
+abra
+
+Input
+
+4 1 2 
+abrakadabra
+
+Output
+
+No solution
